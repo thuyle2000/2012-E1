@@ -1,2 +1,2 @@
 # 2012-E1
-demo 
+This folder contains demo for java, php ... of batch 2012-E1 
