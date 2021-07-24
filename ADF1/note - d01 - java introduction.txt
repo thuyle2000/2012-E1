@@ -1,0 +1,37 @@
+1/ Gioi thiệu:
+- Link kho học liệu Học kỳ 2: https://bit.ly/3kgFV65
+- recorder: Lưu Xuân Lộc (trưởng lớp)
+
+- thiết lập path cho JDK
+	control panel / system / advanced system settings/ 
+	enviroment variables/ System variables/
+	Path / edit / 
+	new : paste duong dan JDK: C:\Program Files\Java\jdk-11.0.8\bin
+
+- kiem tra path duoc xac lap dung chua:
+	1. mo cmd line dos:
+	2. go java
+
+- viet thu 1 chuong trinh "Hello.java" bang notepad
+- bien dich: 
+	chuyen den thu muc chua ct "Hello.java" 
+	go lenh: javac Hello.java => file byte code : "Hello.class"
+
+- chay chuong trinh "Hello.class":
+	go lenh: java Hello
+
+2/ Kiểu dữ liệu:
+	- cơ bản (primitive): 
+		số nguyên (byte, short, int, long)
+		số thực (float, double)
+		ký tự (char)
+		logic (boolean)
+	- tham chiếu (reference): 
+		array, class, interface
+	
+3/ Literal : là các hằng giá trị được gán cho biến
+	- integer, float, char, boolean, string, null
+
+4/ tạo 1 chương trình java trong netbean:
+	- tao 1 project java : d01_intro
+ 
