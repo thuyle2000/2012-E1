@@ -1,7 +1,8 @@
 1/ Gioi thiệu:
 - Link kho học liệu Học kỳ 2: https://bit.ly/3kgFV65
-- recorder: Lưu Xuân Lộc (trưởng lớp)
-
+- recorder: Lưu Xuân Lộc (trưởng lớp) + Hùng Anh
+- Link github : https://github.com/thuyle2000/2012-E1/tree/main/ADF-1
+ 
 - thiết lập path cho JDK
 	control panel / system / advanced system settings/ 
 	enviroment variables/ System variables/
