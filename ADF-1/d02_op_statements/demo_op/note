@@ -1,0 +1,16 @@
+1. Phep toan bitwise
+
+14 (dec)= 0000 1110 (binary)
+27 (dec)= 0001 1011 (binary)
+
+XOR     = 0001 0101 (binary) = 2^4+2^2+2^0 = 16+4+1 = 21
+
+OR      = 0001 1111 (binary) = 2^4+2^3+2^2+2^1+2^0 = 16+8+4+2+1=31
+
+AND       0000 1010 (binary) = 2^3 + 2^1+ 8+2 = 10
+position  7654 3210
+
+XOR + AND = OR
+
+2. Cac cau lenh dieu kien : if, if-else-if, switch-case
+3. Cac cau lenh lap : while, do-while, for, for-each
