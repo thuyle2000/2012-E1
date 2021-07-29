@@ -1,8 +1,0 @@
-
-1. class va object:
-    a. Dinh nghia class (lop du lieu mau)
-    b. Khai bao bien doi tuong kieu class
-    c. Khai niem instance variable, instance method (instance=object)
-    d. Khai niem ham dung (constructor): cung ten voi class
-    e. khai niem encapsulation:
-(public/ private / protected / package-default)
