@@ -1,0 +1,7 @@
+Lap trinh Array
+- mang 1 chieu : mang so nguyen (int[]), mang chuoi ky tu (String[]), mang doi tuong (Student[])
+- lap trinh lai(overrided) ham toString() cua lop cha Object: de tra ve chuoi bieu dien noi dung cua 1 tuong 
+- mang 2 chieu : ma tran nxm
+
+Lap trinh ArrayList (Collection)
+ 
