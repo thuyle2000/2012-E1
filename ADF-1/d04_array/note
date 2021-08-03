@@ -3,5 +3,9 @@ Lap trinh Array
 - lap trinh lai(overrided) ham toString() cua lop cha Object: de tra ve chuoi bieu dien noi dung cua 1 tuong 
 - mang 2 chieu : ma tran nxm
 
-Lap trinh ArrayList (Collection)
- 
+Lap trinh ArrayList (Collection) - Collections.sort
+
+String - StringBuffer - StringBuilder
+- cac ham xu ly chuoi ky tu
+Wrapper : convert primitive -> reference type
+=> autoboxing (primive -> reference) / unboxing (reference->primitive)
