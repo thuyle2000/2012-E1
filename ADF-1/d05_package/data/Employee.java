@@ -8,8 +8,8 @@ import java.util.Scanner;
 
 public class Employee {
     //khai bao static field
-    public String company = "IBM";
-    public String address = "CMT8 HCMC";
+    public static String company = "IBM";
+    public static String address = "CMT8 HCMC";
         
     //khai bao cac instance fields
     public String id, name;
