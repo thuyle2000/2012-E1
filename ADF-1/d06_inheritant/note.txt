@@ -1,0 +1,19 @@
+1/ Tinh ke thua (inheritance)
+    - ky thuat tao ra 1 lop moi (new class / child class) tu 1 lop co san (super class)
+    - lop con nhan tat ca nhung gi duoc dinh nghia trong lop cha (ngoai tru cac thanh phan duoc khai bao private hoac default)
+
+2/ Tinh da hinh (polymorphism)
+    - overload method: cach viet nhieu ham cung ten nhung khac ds doi so trong 1 class. (vi du : add(int a, int b) va add(String a, String b))
+
+    - override method: trong lop con, lap trinh lai cac phuong thuc o lop cha (vi du: lap trinh lai ham toString() cua lop cha Object)
+
+
+3/ Tinh truu tuong (abstract)
+    - mo ta 1 su tong quat hoa ma can duoc trien khai cu the o cac lop con
+
+3/ String: 
+- ham equals() de so sanh noi dung 2 chuoi ky tu co = nhau ko?
+  vd : s1 = "Hello"; s2 ="hello"; => s1.equals(s2); // => false
+
+- ham equalsIgnoreCase() de so sanh noi dung 2 chuoi ky tu co = nhau ko(ko phan biet chu thuong chu hoa) ?
+  vd : s1 = "Hello"; s2 ="hello"; => s1.equalIgnoreCase(s2); // => true
